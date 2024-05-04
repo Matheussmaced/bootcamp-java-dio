@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CaixaEletronico",
+      "request": "launch",
+      "mainClass": "CaixaEletronico",
+      "projectName": "AULA-JAVA_60c7ee4f"
+    },
+    {
+      "type": "java",
       "name": "Current File",
       "request": "launch",
       "mainClass": "${file}"
