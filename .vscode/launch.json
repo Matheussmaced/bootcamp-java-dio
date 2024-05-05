@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "While",
+      "request": "launch",
+      "mainClass": "While",
+      "projectName": "AULA-JAVA_60c7ee4f"
+    },
+    {
+      "type": "java",
+      "name": "SwitchCase",
+      "request": "launch",
+      "mainClass": "SwitchCase",
+      "projectName": "AULA-JAVA_60c7ee4f"
+    },
+    {
+      "type": "java",
       "name": "CaixaEletronico",
       "request": "launch",
       "mainClass": "CaixaEletronico",
