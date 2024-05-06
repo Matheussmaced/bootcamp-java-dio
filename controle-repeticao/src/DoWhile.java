@@ -14,6 +14,7 @@ public class DoWhile {
     } while (tocando());
 
     System.out.println("Alô !!!");
+
   }
 
   private static boolean tocando() {
@@ -21,5 +22,6 @@ public class DoWhile {
     System.out.println("Atendeu? " + atendeu);
     // negando o ato de continuar tocando
     return !atendeu;
+
   }
 }
