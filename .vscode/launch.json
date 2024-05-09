@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Estabelecimento",
+      "request": "launch",
+      "mainClass": "lanchonete.Estabelecimento",
+      "projectName": "AULA-JAVA_60c7ee4f"
+    },
+    {
+      "type": "java",
       "name": "FormatadorDeCepExemplo",
       "request": "launch",
       "mainClass": "FormatadorDeCepExemplo",
