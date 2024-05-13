@@ -6,6 +6,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "SistamaIbge",
+      "request": "launch",
+      "mainClass": "SistamaIbge",
+      "projectName": "AULA-JAVA_60c7ee4f"
+    },
+    {
+      "type": "java",
+      "name": "SistemaCadastro",
+      "request": "launch",
+      "mainClass": "SistemaCadastro",
+      "projectName": "AULA-JAVA_60c7ee4f"
+    },
+    {
+      "type": "java",
+      "name": "Escola",
+      "request": "launch",
+      "mainClass": "escola.Escola",
+      "projectName": "AULA-JAVA_60c7ee4f"
+    },
+    {
+      "type": "java",
       "name": "Estabelecimento",
       "request": "launch",
       "mainClass": "lanchonete.Estabelecimento",
