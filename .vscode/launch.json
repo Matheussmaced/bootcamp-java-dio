@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Autodromo",
+      "request": "launch",
+      "mainClass": "Autodromo",
+      "projectName": "AULA-JAVA_60c7ee4f"
+    },
+    {
+      "type": "java",
       "name": "SistamaIbge",
       "request": "launch",
       "mainClass": "SistamaIbge",
