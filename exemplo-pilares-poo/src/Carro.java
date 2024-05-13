@@ -1,4 +1,6 @@
-public class Carro {
+public class Carro extends Veiculo { // extends significa que ele herdarar aquilo que tem em Veiculo.java, por
+                                     // exemplo o .chassi
+
   public void ligar() {
     confereCambio();
     confereCombustivel();
@@ -13,4 +15,5 @@ public class Carro {
   private void confereCambio() {
     System.out.println("Conferindo cabio em P");
   }
+
 }
