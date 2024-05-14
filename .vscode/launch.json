@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ComputadorPedrinho",
+      "request": "launch",
+      "mainClass": "ComputadorPedrinho",
+      "projectName": "AULA-JAVA_60c7ee4f"
+    },
+    {
+      "type": "java",
       "name": "ComputadorDoPedrinho",
       "request": "launch",
       "mainClass": "ComputadorDoPedrinho",
